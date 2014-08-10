@@ -220,7 +220,7 @@ if __name__ == '__main__':
     pygame.display.set_caption("BitCuisine Experiment")
     possibilities = ["FIXED", "DYNAMIC"]
     game_state = GameState(possibilities[random.randint(0, 1)])
-    log = logger.Log("Emmanuel", game_state)
+    log = logger.Log("Emanuel", game_state)
     log.first_row()
     main(log)
 
