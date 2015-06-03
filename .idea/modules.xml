@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AI-Pygame.iml" filepath="$PROJECT_DIR$/.idea/AI-Pygame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Yellow/.idea/Yellow.iml" filepath="$PROJECT_DIR$/../Yellow/.idea/Yellow.iml" />
     </modules>
   </component>
 </project>
-
